@@ -17,6 +17,22 @@ ul, ul>li, li>a {
   background-color: rgb(255,255,0);}
 ol, ol>li {
   background-color: rgb(0,255,0);}
+#index {
+  background-image: url("steak_grey.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;}
+#aus {
+  background-image: url("ausflag_grey.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;}
+#china {
+  background-image: url("chinaflag_grey.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;}
+#kuwait {
+  background-image: url("kuwaitflag_grey.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;}
   
   
 
